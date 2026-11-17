@@ -1,4 +1,4 @@
-# hello_world("print")
+# 💻 hello_world("print")
 
 IT engineer, videogame enthusiast and project-starter *(not so "project-finisher")*
 
